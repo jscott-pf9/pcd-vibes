@@ -1,6 +1,6 @@
 # 💻 Node Prep Script
 
-**Vibe Check: 🟢 Green**
+**Vibe Check: � Yellow**
 
 Prepare your nodes with exactly the right vibes before integrating them into a PCD cluster.
 

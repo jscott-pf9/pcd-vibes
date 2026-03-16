@@ -25,19 +25,19 @@ All of our tools and scripts feature "Vibe Checks" to indicate their production-
 
 Automation scripts for configuring and managing the compute tier.
 
-- [Node Prep Script](compute/node-prep.md) 🟢 - Prepare your nodes with exactly the right vibes before integrating them into a PCD cluster.
+- [Node Prep Script](compute/node-prep.md) 🟡 - Prepare your nodes with exactly the right vibes before integrating them into a PCD cluster.
 
-## �️ Security
+## 🛡️ Security
 
 Guides, scripts, and resources for hardening your environments.
 
-- [PCD Hardening Guide](https://github.com/skizlave/pcd-hardening-guide) 🟢 - A comprehensive guide and resources for securing and hardening Platform9 Private Cloud Director Hypervisors, based on CIS Benchmark Level 1.
+- [PCD Hardening Guide](https://github.com/skizlave/pcd-hardening-guide) 🟡 - A comprehensive guide and resources for securing and hardening Platform9 Private Cloud Director Hypervisors, based on CIS Benchmark Level 1.
 
 ## 🧩 Extensions
 
 Enhance your PCD operations and day-to-day management with custom browser extensions.
 
-- [PCD Console Helper](extensions/pcd-console-helper.md) 🟢 - A Chrome extension to paste arbitrary text into a noVNC remote console. Built specifically for PCD, this solves the long-standing issue of copy/pasting complex passwords or long commands directly into console sessions!
+- [PCD Console Helper](extensions/pcd-console-helper.md) 🟡 - A Chrome extension to paste arbitrary text into a noVNC remote console. Built specifically for PCD, this solves the long-standing issue of copy/pasting complex passwords or long commands directly into console sessions!
 
 ---
 

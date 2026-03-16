@@ -1,6 +1,6 @@
 # 🧩 PCD Console Helper
 
-**Vibe Check: 🟢 Green**
+**Vibe Check: � Yellow**
 
 A Chrome extension that lets you paste arbitrary text into a **noVNC** remote console (like your PCD session) by replaying keystrokes into the canvas element. This cleanly solves the long-standing issue of copy/pasting passwords or long commands directly into console sessions!
 
