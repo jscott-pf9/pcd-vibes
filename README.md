@@ -31,7 +31,7 @@ Automation scripts for configuring and managing the compute tier.
 
 Guides, scripts, and resources for hardening your environments.
 
-- [PCD Hardening Guide](https://github.com/skizlave/pcd-hardening-guide) 🟡 - A comprehensive guide and resources for securing and hardening Platform9 Private Cloud Director Hypervisors, based on CIS Benchmark Level 1.
+- [PCD Hardening Guide](https://github.com/skizlave/pcd-hardening-guide) 🔴 - A comprehensive guide and resources for securing and hardening Platform9 Private Cloud Director Hypervisors, based on CIS Benchmark Level 1.
 
 ## 🧩 Extensions
 
