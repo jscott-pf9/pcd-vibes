@@ -25,7 +25,7 @@ All of our tools and scripts feature "Vibe Checks" to indicate their production-
 
 Automation scripts for configuring and managing the compute tier.
 
-- [PCD Preinstall Validate](https://github.com/jscott-pf9/pcd-preinstall-validate) � - Pre-install validation checks for PCD compute nodes.
+- [PCD Preinstall Validate](https://github.com/jscott-pf9/pcd-preinstall-validate) 🟢 - Pre-install validation checks for PCD compute nodes.
 - [Node Prep Script](compute/node-prep.md) 🟡 - Prepare your nodes with exactly the right vibes before integrating them into a PCD cluster.
 ## 🛡️ Security
 
